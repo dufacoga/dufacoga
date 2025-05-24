@@ -2,7 +2,8 @@
 <h3 align="center">Software Developer | Cloud & Infrastructure Specialist | C#, Power Platform, Web & Server Systems</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dufacoga&label=Profile%20views&color=0e75b6&style=flat" alt="dufacoga" />
+  <a href="https://github.com/dufacoga"><img src="https://komarev.com/ghpvc/?username=dufacoga&label=Profile%20views&color=0e75b6&style=flat" alt="dufacoga" /></a>
+  <a href="https://github.com/dufacoga?tab=repositories"><img src="https://img.shields.io/badge/my%20repositories-👆-blue"/></a>
 </p>
 
 ---

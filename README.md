@@ -44,9 +44,9 @@ I am passionate about delivering high-quality, scalable, and maintainable soluti
 ## 📊 GitHub Stats (Live)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dufacoga&show_icons=true&theme=react" alt="dufacoga stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dufacoga&show_icons=true&theme=dark" alt="dufacoga stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dufacoga&layout=compact&theme=react" alt="dufacoga languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dufacoga&layout=compact&theme=dark" alt="dufacoga languages" />
 </p>
 
 ---

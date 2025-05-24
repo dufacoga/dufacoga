@@ -24,20 +24,20 @@ I am passionate about delivering high-quality, scalable, and maintainable soluti
 ## 🔧 Tech Stack
 
 ### 🗄️ Backend
-- Languages: **C#**, **JavaScript**, **PHP**
-- Frameworks: **.NET**, **ASP.NET**, **PowerApps**
-- Infrastructure: **Windows Server**, **SharePoint**, **Active Directory**
-- Protocols: **REST**, **SOAP**
+- Languages: `C#` • `JavaScript` • `PHP`
+- Frameworks: `.NET` • `ASP.NET` • `PowerApps`
+- Infrastructure: `Windows Server` • `SharePoint` • `Active Directory`
+- Protocols: `REST` • `SOAP`
 
 ### 🖥️ Frontend
-- Technologies: **HTML**, **CSS**, **JavaScript**
-- Libraries/Tools: **Blazor**, **React** (in progress), **Bootstrap**
+- Technologies: `HTML` • `CSS` • `JavaScript`
+- Libraries/Tools: `Blazor` • `React` (in progress) • `Bootstrap`
 
 ### ☁️ Cloud & Ecosystem
-- Platforms: **Google Cloud**, **Oracle Cloud**
-- Tools: **Git**, **GitHub**, **Docker**, **VirtualBox**
-- DevOps: **VM setup**, **network config**, **mirrored backups**
-- Project Management: **Jira**, **Asana**, **Trello**
+- Platforms: `Google Cloud` • `Oracle Cloud`
+- Tools: `Git`, `GitHub` • `Docker` (in progress) • `VirtualBox`
+- DevOps: `VM setup` • `network config` • `mirrored backups`
+- Project Management: `Jira` • `Asana` • `Trello`
 
 ---
 

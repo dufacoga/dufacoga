@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 I'm Douglas Cortes</h1>
-<h3 align="center">Software Developer | Cloud & Infrastructure Specialist | C#, Power Platform, Web & Server Systems</h3>
+<h3 align="center">Software Developer | C#, .NET, Blazor PWA, Android & Power Platform</h3>
 
 <p align="center">
   <a href="https://github.com/dufacoga"><img src="https://komarev.com/ghpvc/?username=dufacoga&label=Profile%20views&color=0e75b6&style=flat" alt="dufacoga" /></a>

@@ -12,32 +12,34 @@
 
 I’m a **Software Developer** based in **San Leandro, California** with over **7 years of experience** in:
 
-- Full Stack development (desktop, web, PowerApps)
-- Cloud infrastructure consulting
-- Systems and server administration
-- IT support and troubleshooting
+- Full Stack development (C#, Blazor WebAssembly, Android, PowerApps)
+- Cloud infrastructure consulting (Google Cloud, Oracle Cloud, VPS)
+- Systems and server administration (AD, SharePoint, VMware, Zentyal)
+- IT support and automation
 
-I am passionate about delivering high-quality, scalable, and maintainable solutions — always striving to exceed expectations.
+I build efficient solutions with attention to scalability, offline capability, and cross-platform performance.
 
 ---
 
 ## 🔧 Tech Stack
 
-### 🗄️ Backend
-- Languages: `C#` • `JavaScript` • `PHP`
-- Frameworks: `.NET` • `ASP.NET` • `PowerApps`
-- Infrastructure: `Windows Server` • `SharePoint` • `Active Directory`
-- Protocols: `REST` • `SOAP`
+### 📂 Core Languages
+- `C#` • `JavaScript` • `Kotlin`
 
-### 🖥️ Frontend
-- Technologies: `HTML` • `CSS` • `JavaScript`
-- Libraries/Tools: `Blazor` • `React` (in progress) • `Bootstrap`
+### 🧰 Frameworks & Libraries
+- `.NET` • `ASP.NET` • `Blazor WebAssembly` • `PowerApps` • `Jetpack Compose`
 
-### ☁️ Cloud & Ecosystem
-- Platforms: `Google Cloud` • `Oracle Cloud`
-- Tools: `Git`, `GitHub` • `Docker` (in progress) • `VirtualBox`
-- DevOps: `VM setup` • `network config` • `mirrored backups`
-- Project Management: `Jira` • `Asana` • `Trello`
+### 🌐 Mobile & Frontend
+- `Jetpack Compose` • `Room DB` • `HTML` • `CSS` • `Material Design 3`
+
+### ☁️ Cloud & Backend
+- `SQL Server` • `MySQL` • `SQLite` • `Google Cloud` • `Oracle Cloud`
+
+### ⚖️ Tools & DevOps
+- `Git` • `GitHub` • `GitHub Pages` • `VMware` • `Hyper-V`
+
+### 📊 Other
+- `REST APIs` • `Windows Server` • `Active Directory` • `SharePoint` • `PfSense` • `Jira` • `Trello`
 
 ---
 
@@ -53,15 +55,16 @@ I am passionate about delivering high-quality, scalable, and maintainable soluti
 
 ## 🚀 What I'm Working On
 
-- Building a responsive portfolio with **Blazor WebAssembly**
-- Practicing cloud migration and DevOps automation
-- Developing barcode-based mobile solutions with **.NET MAUI**
+- Publishing a Blazor WebAssembly-based portfolio using GitHub API and CSS Grid
+- Developing an Android check-in app for real estate teams with Kotlin + Room DB
+- Practicing cloud migration, virtual networking, and DevOps scripting
+- Finalizing **FlexiQueryAPI**: a .NET 8 Web API to execute SQL queries across MySQL, SQLite, and SQL Server with API Key auth
 
 ---
 
 ## 📬 How to Reach Me
 
-- 📧 Email: [douglasfarid@gmail.com](mailto:douglasfarid@gmail.com)
+- ✉️ Email: [douglasfarid@gmail.com](mailto:douglasfarid@gmail.com)
 - 🌐 LinkedIn: [linkedin.com/in/dufacoga](https://linkedin.com/in/dufacoga)
 
 ---
